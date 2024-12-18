@@ -1,3 +1,4 @@
+#CS230
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design? The Gaming Room client was looking to expand their already established gaming platform for their Draw It Or Lose It game, that would allow users to participate in the game on multiple platforms, versus the current android only version. The game will need to be developed using a cross-platform approach. Each game and team name needs to be unique, and the game should only allow one instance of the game to exist in memory at a time. Each team will have more than one player assigned per team, and the game will need the ability to have multiple or single teams playing per game.
 
 What did you do particularly well in developing this documentation? I believe I did very well with being clear and to the point without too much text, keeping the document easy to read through without filler.
